@@ -8,6 +8,12 @@
 
 项目使用 HTML/CSS 和 Playwright 导出 PDF、PNG、JPG 与 HTML，并提供可被 Codex 调用的中文 Skill。
 
+## 效果预览
+
+![黑白中文技术简历渲染效果](docs/demo.png)
+
+> 效果图使用匿名示例数据生成，完整输入见 `plugins/local-resume-renderer/examples/example-resume.md`。
+
 ## 复制给 AI，一键安装
 
 现在不必手动照着安装文档逐条执行。把下面整段提示词复制到 **Codex、Claude Code 或其他具备终端和文件操作能力的 AI 编程工具**中：
@@ -60,12 +66,6 @@ https://github.com/oneclickwork/local-resume-renderer
 8. 检查 PDF 页数、中文字体、左右对齐、分页、底部留白以及是否存在重叠或截断。
 9. 最后给我全部输出文件的可访问路径，并简要说明你对原简历做了哪些内容优化。
 ```
-
-## 效果预览
-
-![黑白中文技术简历渲染效果](docs/demo.png)
-
-> 效果图使用匿名示例数据生成，完整输入见 `plugins/local-resume-renderer/examples/example-resume.md`。
 
 ## 功能
 

@@ -8,6 +8,12 @@ A high-aesthetic, black-and-white local Markdown resume renderer. Instead of rel
 
 The project uses HTML/CSS and Playwright to export PDF, PNG, JPG, and HTML, and includes a reusable Skill for Codex and Claude Code.
 
+## Preview
+
+![Black-and-white technical resume preview](docs/demo.png)
+
+> The preview uses anonymous sample data. Its complete source is available at `plugins/local-resume-renderer/examples/example-resume.md`.
+
 ## Copy This Prompt to Install with AI
 
 You do not need to follow the installation guide step by step. Copy the complete prompt below into **Codex, Claude Code, or another AI coding tool with terminal and file access**:
@@ -60,12 +66,6 @@ Requirements:
 8. Verify PDF page count, fonts, left-right alignment, pagination, bottom whitespace, overlap, and clipping.
 9. Return accessible paths to every output and briefly summarize the content improvements.
 ```
-
-## Preview
-
-![Black-and-white technical resume preview](docs/demo.png)
-
-> The preview uses anonymous sample data. Its complete source is available at `plugins/local-resume-renderer/examples/example-resume.md`.
 
 ## Features
 
