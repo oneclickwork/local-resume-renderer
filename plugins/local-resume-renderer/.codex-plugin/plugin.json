@@ -3,14 +3,14 @@
   "version": "0.1.0",
   "description": "Render local Markdown resumes to PDF, PNG, JPG, and HTML with automatic page fitting.",
   "author": {
-    "name": "Community contributors"
+    "name": "oneclickwork"
   },
   "skills": "./skills/",
   "interface": {
     "displayName": "本地简历渲染器",
     "shortDescription": "把 Markdown 简历导出为 PDF、PNG、JPG 和 HTML。",
     "longDescription": "使用 Playwright 和 HTML/CSS 渲染本地 Markdown 简历，支持自动压缩到指定页数和时间版本归档。",
-    "developerName": "Community contributors",
+    "developerName": "oneclickwork",
     "category": "Productivity",
     "capabilities": [],
     "defaultPrompt": "使用简历渲染器渲染最新的 Markdown 简历。"

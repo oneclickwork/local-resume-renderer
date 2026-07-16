@@ -76,7 +76,7 @@ npm run render
 Plugin 内包含中文 `resume-renderer` Skill。通过 GitHub 发布后，可以把仓库添加为 Codex Plugin marketplace：
 
 ```powershell
-codex plugin marketplace add <github-user>/local-resume-renderer
+codex plugin marketplace add oneclickwork/local-resume-renderer
 ```
 
 重启 Codex，在插件目录中选择 `Local Resume Tools` 并安装 `local-resume-renderer`。之后可以直接说：
