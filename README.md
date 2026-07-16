@@ -1,6 +1,16 @@
 # Local Resume Renderer
 
-一个只在本地运行的 Markdown 简历渲染器，使用 HTML/CSS 和 Playwright 导出 PDF、PNG、JPG 与 HTML，并提供可被 Codex 调用的中文 Skill。
+> **纯 Vibe Coding 产物**
+
+一个主打高审美黑白风格的本地 Markdown 简历渲染器。它不依赖花哨配色和装饰组件，而是通过字体层级、留白、横线、粗体和严谨对齐建立清晰的信息秩序，兼顾屏幕阅读、黑白打印和正式投递。
+
+项目使用 HTML/CSS 和 Playwright 导出 PDF、PNG、JPG 与 HTML，并提供可被 Codex 调用的中文 Skill。
+
+## 效果预览
+
+![黑白中文技术简历渲染效果](docs/demo.png)
+
+> 效果图使用匿名示例数据生成，完整输入见 `plugins/local-resume-renderer/examples/example-resume.md`。
 
 ## 功能
 
