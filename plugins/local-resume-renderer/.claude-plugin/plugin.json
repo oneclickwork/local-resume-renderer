@@ -1,0 +1,8 @@
+{
+  "name": "local-resume-renderer",
+  "version": "0.2.0",
+  "description": "高审美黑白风本地 Markdown 简历渲染器，支持自动压页和版本归档。",
+  "author": {
+    "name": "oneclickwork"
+  }
+}

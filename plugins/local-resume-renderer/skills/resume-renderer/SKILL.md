@@ -13,7 +13,7 @@ description: 使用本地 Markdown 简历渲染器导出 PDF、PNG、JPG 和 HTM
 <plugin-root>/skills/resume-renderer/SKILL.md
 ```
 
-因此 Plugin 根目录是 Skill 目录向上两级。始终使用解析后的绝对路径运行命令，不要写死盘符、用户名或安装目录。
+因此 Plugin 根目录是 Skill 目录向上两级。Skill 通过符号链接或目录联接安装时，先解析链接目标的真实路径，再向上定位 Plugin 根目录。始终使用解析后的绝对路径运行命令，不要写死盘符、用户名或安装目录。
 
 ## 准备依赖
 

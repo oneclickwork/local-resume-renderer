@@ -1,8 +1,8 @@
 {
   "name": "local-resume-renderer",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
-  "description": "Local Markdown resume renderer with PDF and image export.",
+  "description": "本地黑白风 Markdown 简历渲染器，支持 PDF 和图片导出。",
   "license": "MIT",
   "type": "module",
   "scripts": {

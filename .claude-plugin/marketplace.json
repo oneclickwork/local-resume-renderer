@@ -1,0 +1,13 @@
+{
+  "name": "local-resume-tools",
+  "owner": {
+    "name": "oneclickwork"
+  },
+  "plugins": [
+    {
+      "name": "local-resume-renderer",
+      "source": "./plugins/local-resume-renderer",
+      "description": "高审美黑白风本地 Markdown 简历渲染器，支持 PDF、PNG、JPG、HTML 和自动页数适配。"
+    }
+  ]
+}

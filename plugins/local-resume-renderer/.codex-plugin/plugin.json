@@ -1,7 +1,7 @@
 {
   "name": "local-resume-renderer",
-  "version": "0.1.0",
-  "description": "Render local Markdown resumes to PDF, PNG, JPG, and HTML with automatic page fitting.",
+  "version": "0.2.0",
+  "description": "本地黑白风 Markdown 简历渲染器，支持 PDF、PNG、JPG、HTML 和自动页数适配。",
   "author": {
     "name": "oneclickwork"
   },

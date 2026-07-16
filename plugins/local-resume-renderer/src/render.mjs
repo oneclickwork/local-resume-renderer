@@ -126,7 +126,7 @@ function parseNumberOption(option, value, minimum, maximum, integer = false) {
 function printHelp() {
   console.log(`Usage:
   npm run render
-  npm run render -- --input resume.md --outdir "C:\\Users\\E\\Desktop\\resume"
+  npm run render -- --input resume.md --outdir "%USERPROFILE%\\Desktop\\resume"
   npm run render -- --compact
   npm run render -- --page-margin-y 6 --line-height 1.30
   npm run render -- --fit-pages 1

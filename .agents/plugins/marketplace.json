@@ -1,7 +1,7 @@
 {
   "name": "local-resume-tools",
   "interface": {
-    "displayName": "Local Resume Tools"
+    "displayName": "本地简历工具"
   },
   "plugins": [
     {
