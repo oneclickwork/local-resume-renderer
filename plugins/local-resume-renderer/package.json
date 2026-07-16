@@ -1,0 +1,14 @@
+{
+  "name": "local-resume-renderer",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Local Markdown resume renderer with PDF and image export.",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "render": "node src/render.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.57.0"
+  }
+}

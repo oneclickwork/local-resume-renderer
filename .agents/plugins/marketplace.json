@@ -1,0 +1,20 @@
+{
+  "name": "local-resume-tools",
+  "interface": {
+    "displayName": "Local Resume Tools"
+  },
+  "plugins": [
+    {
+      "name": "local-resume-renderer",
+      "source": {
+        "source": "local",
+        "path": "./plugins/local-resume-renderer"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
