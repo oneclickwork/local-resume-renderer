@@ -72,3 +72,9 @@ icon:phone 13800000000 ｜ icon:email candidate@example.com ｜ icon:profile 微
 **AI 应用：** RAG、Embedding、Reranker、Function Calling、LangGraph
 
 **框架与工具：** FastAPI、Playwright、PostgreSQL、Milvus、Docker、Git
+
+## 专业优势
+
+- 能够从需求拆解、方案设计、编码实现到部署验证，独立完成 AI 应用开发闭环。
+- 重视代码可读性、自动化测试和可观测性，习惯使用数据指标评估优化效果。
+- 具备良好的技术文档编写与协作能力，能够快速定位问题并推动解决方案落地。
